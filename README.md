@@ -1,6 +1,6 @@
 # ![Django Wisdom Pets Example](project-logo.png)
 
-> This is an example project just for learning purposes taken from the course 
+> This is an example project just for learning purposes
 
 ## Installation
 
