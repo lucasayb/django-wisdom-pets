@@ -1,4 +1,4 @@
 .vscode
 *.sqlite3
 __pycache__
-.DS_STORE
+.DS_Store
